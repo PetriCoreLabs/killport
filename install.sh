@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # killport installer script
-# Usage: curl -sSL https://raw.githubusercontent.com/ferga/killport/main/install.sh | bash
+# Usage: curl -sSL https://raw.githubusercontent.com/PetriCoreLabs/killport/main/install.sh | bash
 
 set -e
 
-REPO="ferga/killport"
+REPO="PetriCoreLabs/killport"
 INSTALL_DIR="/usr/local/bin"
 BINARY_NAME="killport"
 

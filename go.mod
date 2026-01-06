@@ -1,3 +1,3 @@
-module github.com/ferga/killport
+module github.com/PetriCoreLabs/killport
 
 go 1.21
